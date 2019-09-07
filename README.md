@@ -13,16 +13,16 @@ COUNTRY,POSTAL_CODE,CITY,STATE,SHORT_STATE,COUNTY,SHORT_COUNTY,COMMUNITY,SHORT_C
 
 
 ## Countries Includes:
-name
-Andorra
-Argentina
-American Samoa
-Austria
-Australia
-Aland Islands
-Azerbaijan
-Bangladesh
-Belgium
+
+* Andorra
+* Argentina
+* American Samoa
+* Austria
+* Australia
+* Aland Islands
+* Azerbaijan
+* Bangladesh
+* Belgium
 Bulgaria
 Bermuda
 Brazil
@@ -105,7 +105,6 @@ Virgin Islands, US
 Wallis and Futuna Islands 
 Mayotte
 South Africa
-
 
 
 
