@@ -23,88 +23,88 @@ COUNTRY,POSTAL_CODE,CITY,STATE,SHORT_STATE,COUNTY,SHORT_COUNTY,COMMUNITY,SHORT_C
 * Azerbaijan
 * Bangladesh
 * Belgium
-*Bulgaria
-*Bermuda
-*Brazil
-*Belarus
-*Canada 
-*Switzerland
-*Chile
-*Colombia
-*Costa Rica
-*Czech Republic
-*Germany 
-*Denmark
-*Dominican Republic
-*Algeria
-*Estonia
-*Spain
-*Finland
-*Micronesia, Federated States of
-*Faroe Islands
-*France
-*United Kingdom
-*French Guiana
-*Guernsey
-*Greenland
-*Guadeloupe
-*Guatemala
-*Guam
-*Croatia
-*Hungary
-*Ireland
-*Isle of Man 
-*India
-*Iceland
-*Italy 
-*Jersey
-*Japan
-*Korea (South)
-*Liechtenstein
-*Sri Lanka
-*Lithuania
-*Luxembourg
-*Latvia
-*Monaco
-*Moldova
-*Marshall Islands
-*Macedonia, Republic of
-*Northern Mariana Islands
-*Martinique
-*Malta
-*Malawi
-*Mexico
-*Malaysia
-*New Caledonia
-*Netherlands
-*Norway
-*New Zealand
-*Philippines
-*Pakistan
-*Poland
-*Saint Pierre and Miquelon 
-*Puerto Rico
-*Portugal
-*Palau
-*RÃ©union
-*Romania
-*Russian Federation 
-*Sweden
-*Singapore
-*Slovenia
-*Svalbard and Jan Mayen Islands 
-*Slovakia
-*San Marino
-*Thailand
-*Turkey
-*Ukraine
-*United States of America
-*Uruguay
-*Holy See (Vatican City State)
-*Virgin Islands, US
-*Wallis and Futuna Islands 
-*Mayotte
-*South Africa
+* Bulgaria
+* Bermuda
+* Brazil
+* Belarus
+* Canada 
+* Switzerland
+* Chile
+* Colombia
+* Costa Rica
+* Czech Republic
+* Germany 
+* Denmark
+* Dominican Republic
+* Algeria
+* Estonia
+* Spain
+* Finland
+* Micronesia, Federated States of
+* Faroe Islands
+* France
+* United Kingdom
+* French Guiana
+* Guernsey
+* Greenland
+* Guadeloupe
+* Guatemala
+* Guam
+* Croatia
+* Hungary
+* Ireland
+* Isle of Man 
+* India
+* Iceland
+* Italy 
+* Jersey
+* Japan
+* Korea (South)
+* Liechtenstein
+* Sri Lanka
+* Lithuania
+* Luxembourg
+* Latvia
+* Monaco
+* Moldova
+* Marshall Islands
+* Macedonia, Republic of
+* Northern Mariana Islands
+* Martinique
+* Malta
+* Malawi
+* Mexico
+* Malaysia
+* New Caledonia
+* Netherlands
+* Norway
+* New Zealand
+* Philippines
+* Pakistan
+* Poland
+* Saint Pierre and Miquelon 
+* Puerto Rico
+* Portugal
+* Palau
+* RÃ©union
+* Romania
+* Russian Federation 
+* Sweden
+* Singapore
+* Slovenia
+* Svalbard and Jan Mayen Islands 
+* Slovakia
+* San Marino
+* Thailand
+* Turkey
+* Ukraine
+* United States of America
+* Uruguay
+* Holy See (Vatican City State)
+* Virgin Islands, US
+* Wallis and Futuna Islands 
+* Mayotte
+* South Africa
 
 
 
