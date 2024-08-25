@@ -24,7 +24,6 @@ You can preview the data in the following screenshot:
 ![alt text](https://github.com/Zeeshanahmad4/Zip-code-of-all-countries-cities-in-the-world-CSV-TXT-SQL-DATABASE/blob/master/Capture.JPG)
 
 
-Feel free to use this data for your projects, If you find my GitHub repository to be useful, I would appreciate it if you could give it a star! 🌟 Your support will help this repository grow, and more people can benefit from it. Also, I love sharing updates about my journey of building products on Twitter, so please feel free to follow me at [@Zeeshan\_Ahmad6](https://twitter.com/Zeeshan_Ahmad6) there. 🐦
 
 ## Countries Includes:
 
